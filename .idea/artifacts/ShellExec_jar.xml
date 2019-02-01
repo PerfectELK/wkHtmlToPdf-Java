@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ShellExec:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ShellExec_jar</output-path>
+    <root id="archive" name="ShellExec.jar">
+      <element id="module-output" name="ShellExec" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
